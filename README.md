@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/gauravnewton" target="blank"><img src="https://img.shields.io/twitter/follow/gauravnewton?logo=twitter&style=for-the-badge" alt="gauravnewton" /></a> </p>
 
+<p align="left"><a 
+href="https://stackoverflow.com/users/5787290/gaurav-kumar" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=5787290" /></a> 
+  
+  </a>
+
 - 🔭 I’m currently working with **Oodles Technologies Pvt. Ltd.**
 
 <h3 align="left">Connect with me:</h3>
