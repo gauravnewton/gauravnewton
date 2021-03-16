@@ -13,7 +13,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=5787290" /></a>
   
   </a>
 
-- 🔭 I’m currently working with **Oodles Technologies Pvt. Ltd.**
+- 🔭 I’m currently working with **InfoSys.** as system engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
